@@ -1,2 +1,1 @@
-This is a local change
- 
+Changes have been removed and replaced
